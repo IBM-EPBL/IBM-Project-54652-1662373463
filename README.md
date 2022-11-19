@@ -2,7 +2,7 @@
 Airlines Data Analytics for Avaition Industry
 
 
- TEAM ID: PNT2022TMIFD23167
+TEAM ID: PNT2022TMID23167
  
  
 DOMAIN: DATA ANALYTICS
@@ -27,7 +27,7 @@ TEAM LEAD:
   
 * To provide better Airline and Airport services and to avoid delays in air travel across different locations at municipality level.
 
-The aim is to provide airports,airlines and the travelling public with neutral ,third party view of which airlines are delivering on their promises to get passengers from POINT A TO PONT B on-time.
+The aim is to provide airports,airlines and the travelling public with neutral ,third party view of which airlines are delivering on their promises to get passengers from POINT A TO POINT B on-time.
   
   
   PROJECT DEMO LINK:
