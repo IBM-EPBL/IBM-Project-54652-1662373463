@@ -15,7 +15,7 @@ TEAM LEAD:
   
   TEAM MEMBERS:
           
-             1.BHAVANIDEVi B G-(913119106016)
+             1.BHAVANIDEVI B G-(913119106016)
              
              2.HARITHA SRI S-(913119106029)
              
